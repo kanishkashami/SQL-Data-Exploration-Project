@@ -1,4 +1,4 @@
-use project1
+use project1;
 
 
 -- select data we are using
